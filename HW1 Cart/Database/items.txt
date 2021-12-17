@@ -1,0 +1,8 @@
+i1 name:Peanut Butter description:JIF Creamy Peanut Butter 16oz cost:2 count:3000
+i2 name:Strawberry Jelly description:Smucker's 8oz strawberry jelly cost:1.5 count:4000
+i3 name:Wheat Bread description:Wonder Bread loaf of wheat bread cost:1.5 count:4000
+i4 name:Chocolate Ice Cream description:Edy's gallon of chocolate ice cream cost:4.5 count:1200
+i5 name:Raspberries description:Driscoll's pint of raspberries cost:1 count:4444
+i6 name:Party Size Nacho Doritos description:Dorito's party size back of Nacho Doritos cost:3 count:4000
+i7 name:Pound of Flour description:Walmart 1lb bag of flour cost:1 count:100000
+i8 name:Graphics Card description:NVidia graphics card cost:3000 count:0 

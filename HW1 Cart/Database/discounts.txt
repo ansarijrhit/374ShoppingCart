@@ -1,0 +1,6 @@
+d1 appID:i1 percent:15 min:2 inID:d2
+d2 appID:i2 percent:50 min:7 inID: 
+d3 appID:i3 percent:7 min:1 inID: 
+d4 appID:i4 percent:12 min:10 inID:d2,d5
+d5 appID:i5 percent:25 min:20 inID: 
+d6 appID:i6 percent:5 min:1 inID:d1
